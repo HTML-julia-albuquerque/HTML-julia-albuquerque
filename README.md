@@ -23,6 +23,6 @@ Olha só o meu perfil em ação! 🚀
 
 ## 🤝 Onde me encontrar
 Se quiser trocar ideias, memes ou dicas de programação, me chama aqui:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/Julia Andrade De Albuquerque)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/julia-andrade-de-albuquerque-8717bb331)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/juliaallbuquerquee)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/u/Legitimate-Focus-347)
