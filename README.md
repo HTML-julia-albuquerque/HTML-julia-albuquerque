@@ -19,7 +19,7 @@ Aqui estão algumas das ferramentas que me ajudam a conquistar o mundo (ou pelo 
 
 ## 📊 Estatísticas do GitHub
 Olha só o meu perfil em ação! 🚀  
-![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=HTML-julia-albuquerque&show_icons=true&theme=tokyonight)
 
 ## 🤝 Onde me encontrar
 Se quiser trocar ideias, memes ou dicas de programação, me chama aqui:
