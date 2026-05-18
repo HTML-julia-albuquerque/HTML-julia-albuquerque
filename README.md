@@ -1,6 +1,6 @@
 ## Olá, Seja bem-vindo ao meu perfil!
 
-![imagem](dance.png)
+![imagem](Post by @shinobi-bacon · 8 images.gif)
 
 ## 🔧 Tecnologias que uso
 Aqui estão algumas das ferramentas que eu utilizo:
